@@ -38,20 +38,20 @@ body {
     text-align: center;
     margin-top: 20vh;
     text-transform: uppercase;
-    font-size: 100px; }
+    font-size: 45px; }
   .mid-content p {
     text-align: center;
     margin: 0 auto;
-    font-size: 50px;
+    font-size: 65px;
     text-transform: uppercase;
     display: block;
     border-style: solid;
     border-width: 3px 0 0 0;
-    width: 400px; }
+    width: 500px; }
 
 @media (max-width: 768px) {
   .mid-content h1 {
-    font-size: 70px; }
+    font-size: 25px; }
   .mid-content p {
     font-size: 40px;
     width: 320px;
@@ -60,7 +60,7 @@ body {
 
 @media (max-width: 330px) {
   .mid-content h1 {
-    font-size: 65px; }
+    font-size: 25px; }
   .mid-content p{
     font-size: 35px;
     width: 280px;
